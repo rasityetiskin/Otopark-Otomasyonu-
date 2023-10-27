@@ -1,0 +1,13 @@
+C:\Users\Furkan Uslu\Desktop\Proje\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.exe.config
+C:\Users\Furkan Uslu\Desktop\Proje\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.exe
+C:\Users\Furkan Uslu\Desktop\Proje\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.pdb
+C:\Users\Furkan Uslu\Desktop\Proje\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\Guna.UI2.dll
+C:\Users\Furkan Uslu\Desktop\Proje\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Menu.resources
+C:\Users\Furkan Uslu\Desktop\Proje\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Properties.Resources.resources
+C:\Users\Furkan Uslu\Desktop\Proje\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csproj.GenerateResource.cache
+C:\Users\Furkan Uslu\Desktop\Proje\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Uslu\Desktop\Proje\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csproj.CopyComplete
+C:\Users\Furkan Uslu\Desktop\Proje\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.exe
+C:\Users\Furkan Uslu\Desktop\Proje\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.pdb
+C:\Users\Furkan Uslu\Desktop\Proje\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Reports.resources
+C:\Users\Furkan Uslu\Desktop\Proje\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csprojAssemblyReference.cache
